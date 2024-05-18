@@ -65,3 +65,5 @@ print(cek_palindrome(" level "))
 def bilangan_terbesar(list):
     return max(list)
 print(bilangan_terbesar([10,20,5,30,15]))
+
+
